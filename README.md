@@ -5,3 +5,5 @@ Diseño: Crear un diseño visualmente atractivo y coherente, utilizando HTML y C
 Desarrollo: Implementar la funcionalidad del portafolio mediante JavaScript, incluyendo animaciones, interacciones y elementos dinámicos.
 Optimización: Asegurar que el portafolio sea responsive y se adapte a diferentes dispositivos, así como optimizar el rendimiento y la accesibilidad.
 Deployment: Publicar el portafolio en un servidor web para compartirlo con el mundo. Al finalizar el proyecto, los estudiantes habrán desarrollado un portafolio que no solo exhibe sus habilidades técnicas, sino que también refleja su creatividad y capacidad para resolver problemas."
+
+Para ver el proyecto funcionando se puede acceder al siguiente enlace: 

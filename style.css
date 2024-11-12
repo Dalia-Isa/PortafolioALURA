@@ -75,7 +75,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center; /* Centra horizontalmente */
-    background-image: url(/imagenes/aves.jpg);
+    background-image: url(./imagenes/aves.jpg);
     height: 47.3rem;
     background-size: 150%;
     animation: movimiento 10s infinite linear alternate;
@@ -162,7 +162,7 @@ header {
     margin-bottom: 0rem;
     font-size: 1rem;
     font-weight: 400;
-    color: var(--color-gris);
+    color: gray;
 }
 
 /* Aficiones */
@@ -272,7 +272,7 @@ header {
     width: 100%;
     height: 5rem;
     position: relative;
-    background-image: url(/imagenes/colores.jpg);
+    background-image: url(./imagenes/colores.jpg);
 }
 
 .degradado {
@@ -444,7 +444,7 @@ footer{
 @media (max-width: 768px){
     header{
         margin-top: 0;
-        background-color: var(--color-black);
+        background-color: black;
        height: 3rem;
     }
 
